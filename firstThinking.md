@@ -11,7 +11,7 @@
 + BucketFill
 + Command
 
-## What pattern should choose to "determine" and "operate" commands of whose (C, L, R, B, Q) to DRAW. 
+## What pattern should choose to "determine" and "operate" commands of whose (C, L, R, B, Q).
 + ????
 
 ## NOTE: the functionality of the program is quite limited but this might change in the future. 
