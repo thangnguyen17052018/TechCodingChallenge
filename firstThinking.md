@@ -15,3 +15,5 @@
 + ????
 
 ## NOTE: the functionality of the program is quite limited but this might change in the future. 
+
+## APPLY: OOP, SOLID PRINCIPLE.
